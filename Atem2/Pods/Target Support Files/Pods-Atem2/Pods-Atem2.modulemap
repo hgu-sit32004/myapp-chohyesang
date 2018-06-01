@@ -1,0 +1,6 @@
+framework module Pods_Atem2 {
+  umbrella header "Pods-Atem2-umbrella.h"
+
+  export *
+  module * { export * }
+}
